@@ -1,7 +1,6 @@
 package com.example.demo.dao;
 
 
-import ma.fac.miniavito.bean.AnnonceHS;
 
 import java.util.List;
 
