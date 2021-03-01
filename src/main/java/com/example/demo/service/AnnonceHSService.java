@@ -1,4 +1,3 @@
-package ma.fac.miniavito.service;
 package com.example.demo.service;
 
 
